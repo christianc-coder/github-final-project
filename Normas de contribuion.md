@@ -1,4 +1,5 @@
 Contribuyendo
+
 Al contribuir con un cambio importante a este repositorio, por favor, primero discuta el cambio que desea realizar mediante un problema o por Slack en el canal #racial-justice-legit-info del espacio de trabajo de Slack de Call for Code . Los problemas menores pueden solucionarse simplemente enviando una solicitud de incorporación de cambios.
 
 Todas las solicitudes de incorporación de cambios requieren que se asegure de que el cambio esté certificado mediante el Certificado de Origen del Desarrollador (DCO) . El DCO es una forma sencilla para que los colaboradores certifiquen que escribieron o tienen derecho a enviar el código que aportan al proyecto.
