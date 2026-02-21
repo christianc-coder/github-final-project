@@ -1,5 +1,7 @@
 Contribuyendo
 
+Todas las contribuciones, informes de errores, correcciones de errores, mejoras en la documentación, mejoras y ideas son bienvenidas.
+
 Al contribuir con un cambio importante a este repositorio, por favor, primero discuta el cambio que desea realizar mediante un problema o por Slack en el canal #racial-justice-legit-info del espacio de trabajo de Slack de Call for Code . Los problemas menores pueden solucionarse simplemente enviando una solicitud de incorporación de cambios.
 
 Todas las solicitudes de incorporación de cambios requieren que se asegure de que el cambio esté certificado mediante el Certificado de Origen del Desarrollador (DCO) . El DCO es una forma sencilla para que los colaboradores certifiquen que escribieron o tienen derecho a enviar el código que aportan al proyecto.
@@ -61,3 +63,5 @@ Los mantenedores del proyecto que no cumplan o hagan cumplir el Código de condu
 
 Atribución
 Este Código de Conducta es una adaptación del Pacto del Colaborador , versión 1.4, disponible en http://contributor-covenant.org/version/1/4
+
+Todas las contribuciones, informes de errores, correcciones de errores, mejoras en la documentación, mejoras y ideas son bienvenidas.
